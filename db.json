@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "post 1",
+      "body": "こどもはゴーシュの病気譜どもで譜が知っ先生ましまし。するとどっかりだめたたという外ましう。気の毒ましだんましはなすると赤ん坊の上手めのときではましてだめならだて、おまえばかり病院をしれことたでし。出すぎ何は向うにくるしないてはじめのゴーシュの音汁で過ぎ第一おしまいたちのかっこうが出ていたまし。",
+      "author": "ny"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comments": [
+        { "id": 1, "body": "comment 1", "author": "ny" },
+        { "id": 2, "body": "comment 2", "author": "ny" }
+      ],
+      "prev": null,
+      "next": 2
+    },
+    {
+      "id": 2,
+      "comments": [
+        { "id": 3, "body": "comment 3", "author": "ny" },
+        { "id": 4, "body": "comment 4", "author": "ny" }
+      ],
+      "prev": 1,
+      "next": 3
+    },
+    {
+      "id": 3,
+      "comments": [
+        { "id": 5, "body": "comment 5", "author": "ny" },
+        { "id": 6, "body": "comment 6", "author": "ny" }
+      ],
+      "prev": 2,
+      "next": 4
+    },
+    {
+      "id": 4,
+      "comments": [
+        { "id": 7, "body": "comment 7", "author": "ny" },
+        { "id": 8, "body": "comment 8", "author": "ny" }
+      ],
+      "prev": 3,
+      "next": 5
+    },
+    {
+      "id": 5,
+      "comments": [
+        { "id": 9, "body": "comment 9", "author": "ny" },
+        { "id": 10, "body": "comment 10", "author": "ny" }
+      ],
+      "prev": 4,
+      "next": null
+    }
+  ]
+}
