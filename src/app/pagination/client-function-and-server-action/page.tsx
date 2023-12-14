@@ -23,5 +23,5 @@ export default async function ClientFunctionAndServerAction() {
 
       <CommentList initialState={commentListInitialState} />
     </main>
-  )
+  );
 }
